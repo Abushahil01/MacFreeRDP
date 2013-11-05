@@ -1,0 +1,4 @@
+MacFreeRDP
+==========
+
+Binaries for MacFreeRDP
