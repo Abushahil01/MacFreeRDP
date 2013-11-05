@@ -1,8 +1,7 @@
 MacFreeRDP
 ==========
 
-Binaries for MacFreeRDP
-[FreeRDP Repo](https://github.com/FreeRDP/FreeRDP)
+Binaries for [MacFreeRDP](https://github.com/FreeRDP/FreeRDP)
 
 *Note: these binaries were compiled without multimedia redirection*
 
